@@ -18,5 +18,5 @@ Digital Inputs
 Relay Outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1Y6cij16qCkUPmP1ee9dN5yZmgDGywK5K&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1eN86yNRZ-QQn1t56rJMGAX_h71zpPZsb&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-enet-ae06-r-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-enet-ae06-r-user-guide/
