@@ -200,9 +200,6 @@ void SD_CHECK(){
     int cardSize = SD.cardSize() / (1024 * 1024);
     Serial.printf("Card Size: %lluMB\n", cardSize);
   }
-  if(!SD.begin(15))  {
-    Serial.println("NO SD card");            
-  }
 }
 
 void ETHERNET_CHECK(){
